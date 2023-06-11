@@ -1,0 +1,40 @@
+#first{
+    padding: 5px;
+border-color: cyan;
+border-radius: 4px;
+margin: 5px;
+}
+#second{
+    padding: 5px;
+    border-color: cyan;
+border-radius: 4px;
+margin: 5px;
+}
+#res{
+    padding: 5px;
+    border-color: cyan;
+    border-radius: 4px;
+    margin: 5px;
+}
+#ope{
+    padding: 5px;
+    border-color: burlywood;
+    border-radius: 4px;
+    margin: 5px;
+}
+button{
+    padding: 5px;
+    border-color: rgb(122, 24, 57);
+    border-radius: 4px;
+    margin: 5px;
+    background-color: blanchedalmond;
+}
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+div{
+    background-color: bisque;
+}
